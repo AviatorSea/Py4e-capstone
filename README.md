@@ -1,2 +1,3 @@
-# Py4e-capstone
-My first repo!
+# Python for Everyone Capstone project
+
+### Hey
